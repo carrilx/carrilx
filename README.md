@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ChatGPT Image 28 nov 2025, 22_02_15.png" alt="Banner Hola Mundo - CarrilX" width="500px">
+  <img src="ChatGPT Image 28 nov 2025, 22_06_03.png" alt="Banner Hola Mundo - CarrilX" width="500px">
 </p>
 
 # 👋 ¡Hola! Soy Xaime Carril (CarrilX)
