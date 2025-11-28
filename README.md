@@ -1,4 +1,4 @@
-<img src="bannerbueno.png" style="max-height:350px; width:100%; object-fit:cover;">
+<img src="banner2.png" style="max-height:350px; width:100%; object-fit:cover;">
 
 # 👋 ¡Hola! Soy Xaime Carril (CarrilX)
 
