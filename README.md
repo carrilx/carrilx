@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="A_GitHub_profile_README_image_for_Xaime_Carril,_kn.png" alt="Banner Hola Mundo - CarrilX" width="500px">
+  <img src="ChatGPT Image 28 nov 2025, 22_02_15.png" alt="Banner Hola Mundo - CarrilX" width="500px">
 </p>
 
 # 👋 ¡Hola! Soy Xaime Carril (CarrilX)
