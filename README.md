@@ -1,16 +1,61 @@
-## Hi there 👋
 
-<!--
-**carrilx/carrilx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="A_GitHub_profile_README_image_for_Xaime_Carril,_kn.png" alt="Banner Hola Mundo - CarrilX" width="500px">
+</p>
 
-Here are some ideas to get you started:
+# 👋 ¡Hola! Soy Xaime Carril (CarrilX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
+💻 Apasionado por el desarrollo web y la creación de proyectos funcionales y bien estructurados.
+
+---
+
+## 🚀 Tecnologías que conozco
+
+### 🔹 Frontend
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+### 🔹 Backend
+- **PHP**
+
+---
+
+## 📚 Actualmente…
+- Estudiando **DAW**
+- Mejorando mis habilidades en **JavaScript** y **PHP**
+- Aprendiendo buenas prácticas con **Git** y **GitHub**
+
+---
+
+## 🛠️ Herramientas que utilizo
+- VS Code  
+- Git / GitHub  
+- Chrome DevTools  
+- XAMPP / Localhost
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarrilX&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarrilX&layout=compact&theme=tokyonight)
+
+</div>
+
+
+---
+
+## 📬 Contacto
+Si quieres hablar o colaborar en un proyecto:
+
+📧 *Puedes escribirme por GitHub Issues o mensajes en repositorios.*
+
+---
+
+⭐ *Gracias por visitar mi perfil.*
+
