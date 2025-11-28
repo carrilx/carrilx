@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.png" alt="Banner Hola Mundo - CarrilX" style="width:100%; border-radius:20px;">
+  <img src="banner.png" width:100% height:300px alt="Banner Hola Mundo - CarrilX" style="border-radius:50px;">
 </p>
 
 # 👋 ¡Hola! Soy Xaime Carril (CarrilX)
@@ -34,18 +34,6 @@
 - Git / GitHub  
 - Chrome DevTools  
 - XAMPP / Localhost
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarrilX&show_icons=true&theme=tokyonight)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarrilX&layout=compact&theme=tokyonight)
-
-</div>
 
 
 ---
