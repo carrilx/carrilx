@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.png" alt="Banner Hola Mundo - CarrilX" width="100%" border-radius:50px>
+  <img src="banner.png" alt="Banner Hola Mundo - CarrilX" style="width:100%; border-radius:20px;">
 </p>
 
 # 👋 ¡Hola! Soy Xaime Carril (CarrilX)
